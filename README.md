@@ -1,2 +1,1 @@
-"# Nav-Demo-Android" 
-"# Notification-android" 
+"# Nav-Demo-Android"
